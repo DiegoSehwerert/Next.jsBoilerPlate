@@ -1,0 +1,17 @@
+[33mcommit 0756a2e3de462c831b3fec3e74416ab2617d8f9f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: DiegoSehwerert <dsehwerert@gmail.com>
+Date:   Mon Sep 30 23:26:08 2024 +0200
+
+    Add dashboard layout component, todos page component, and docs page component
+
+[33mcommit 3a2520740572ba4c6efbd279f26a21e95127c810[m
+Author: DiegoSehwerert <dsehwerert@gmail.com>
+Date:   Fri Sep 27 01:27:00 2024 +0200
+
+    added some prettier things
+
+[33mcommit 303ad46a2ab9e588965d2e79642f9ed95fd86536[m
+Author: DiegoSehwerert <dsehwerert@gmail.com>
+Date:   Fri Sep 27 01:15:41 2024 +0200
+
+    Created the basic project
